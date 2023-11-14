@@ -1,0 +1,11 @@
+.movie_container {
+  width: 250px;
+  height: 520px;
+  padding-bottom: 10px;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: var(--bg-color-movie-card);
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
