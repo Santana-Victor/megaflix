@@ -19,3 +19,9 @@
     font-size: 26px;
   }
 }
+
+@media (max-width: 320px) {
+  .header {
+    padding: 10px;
+  }
+}
