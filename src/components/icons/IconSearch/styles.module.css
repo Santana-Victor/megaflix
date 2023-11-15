@@ -3,3 +3,9 @@
   height: auto;
   fill: #ffffff;
 }
+
+@media (max-width: 400px) {
+  .icon {
+    width: 18px;
+  }
+}

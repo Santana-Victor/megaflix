@@ -4,6 +4,7 @@
   display: flex;
   align-items: center;
   justify-content: space-between;
+  gap: 10px;
 }
 
 .logo {
@@ -11,4 +12,10 @@
   font-weight: 900;
   color: #c00c00;
   text-decoration: none;
+}
+
+@media (max-width: 400px) {
+  .logo {
+    font-size: 26px;
+  }
 }
