@@ -1,7 +1,7 @@
 .movie_container {
   width: 300px;
   height: auto;
-  padding-bottom: 10px;
+  padding: 20px 0 10px;
   display: flex;
   flex-direction: column;
   gap: 20px;
@@ -14,7 +14,7 @@
   flex-direction: column;
   justify-content: center;
   gap: 20px;
-  padding-bottom: 30px;
+  padding: 0 20px 30px;
 }
 
 .tagline {
